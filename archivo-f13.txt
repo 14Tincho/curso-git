@@ -1,0 +1,5 @@
+QSY vamo´ central
+<<<<<<< HEAD
+yo sigo corrigiendo
+=======
+>>>>>>> 83eafb8... seeeeeee
